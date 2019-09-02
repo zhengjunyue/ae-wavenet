@@ -23,7 +23,7 @@ used as a representative.  Currently troubleshooting.
 # Example training setup
 
 ```sh
-code_dir=/path/to/ae-wavenet
+code_dir=/data/ac1zy/exp/ae-wavenet
 run_dir=/path/to/my_runs
 
 # Get the data
