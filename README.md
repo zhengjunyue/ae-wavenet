@@ -24,7 +24,7 @@ used as a representative.  Currently troubleshooting.
 
 ```sh
 code_dir=/data/ac1zy/exp/ae-wavenet
-run_dir=/path/to/my_runs
+run_dir=/fastdata/ac1zy/exp/ae-wavenet/my_runs
 
 # Get the data
 cd $run_dir
